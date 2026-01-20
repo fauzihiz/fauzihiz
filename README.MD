@@ -1,31 +1,47 @@
-# 💫 About Me:
-🔧 I'm Currently working on Book-Reading-Tracker for my wife.<br>
-🎓 I just finished Bootcamp by Dicoding and plan to keep harnessing React and Node.js I learned from there.<br>
-🚀 I aim to land my first freelance job on multiple freelance platforms.<br>
+# 👋 Hi, I'm Fauzi Hizbullah!
+## Aspiring Fullstack Developer | Career Switcher | Mission-Driven Maker
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fauzi-hizbullah-5893a5180) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/fauzihiz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fauzihiz@gmail.com) 
-
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Hapi](https://img.shields.io/badge/hapi.js-FF6B35?style=for-the-badge&logo=hapi&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fauzihiz&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fauzihiz&theme=catppuccin_latte&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzihiz&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fauzihiz&theme=catppuccin_latte&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fauzihiz&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
+I am a passionate developer transitioning into the tech world with a clear purpose: **leveraging technology to solve real-world problems and improve people's quality of life.** I believe that code is a tool for social good, and I'm dedicated to building solutions that make a meaningful impact.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fauzihiz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 My Journey
+- 🎓 **The Spark:** Recently completed a rigorous Fullstack Bootcamp by **Dicoding**, where I built a solid foundation in **React** and **Node.js**.
+- 🛠️ **Current Focus:** I am currently deepening my expertise in the **Next.js** and **TypeScript** ecosystem, building performant and type-safe web applications.
+- 👨‍💻 **Currently Working On:** [Daily Habit Tracker](https://github.com/fauzihiz/daily-habit-tracker) – a project designed to help people build consistency and improve their daily routines.
+- 🌍 **Goal:** To land a full-time role or freelance opportunity where I can contribute to projects that serve the community and enhance societal wellbeing.
+
+---
+
+### 💻 Tech Stack & Tools
+
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) |
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fauzihiz&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzihiz&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=fauzihiz&theme=catppuccin_latte&hide_border=false" alt="GitHub Streak" width="100%" />
+</p>
+
+---
+
+### 📫 Let's Connect & Collaborate!
+I'm always open to discussing new projects, freelance opportunities, or just talking about how tech can change the world.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fauzi-hizbullah-5893a5180) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fauzihiz@gmail.com)
+
+---
+
+> "Technology is best when it brings people together and solves their problems."
