@@ -8,7 +8,7 @@ I transitioned into software development with a clear focus: turning code into p
 ### 🚀 Currently
 
 - 🛠️ **Building:** [Autoglass Workshop Management](https://github.com/fauzihiz/autoglass-workshop-management) — a management system for auto glass workshops, built with **Laravel**, inspired by a real inventory system I built and maintained during 6 years working at an auto glass business.
-- 6📚 **Also building:** [Case Study & Client Management System](https://github.com/fauzihiz/studycase-and-clientmanagement) — a PWA tool to manage freelance client data, log before/after growth metrics, and auto-generate shareable portfolio case studies. Built with **Next.js**, **Supabase**, and **shadcn/ui**.
+- 📚 **Also building:** [Case Study & Client Management System](https://github.com/fauzihiz/studycase-and-clientmanagement) — a PWA tool to manage freelance client data, log before/after growth metrics, and auto-generate shareable portfolio case studies. Built with **Next.js**, **Supabase**, and **shadcn/ui**.
 - 🎓 **Foundation:** Completed the Fullstack Web Developer Bootcamp by **Dicoding** (React & Node.js), plus prior training through CEP-CCIT FTUI.
 - 🌱 **Currently deepening:** **Laravel** and the **PHP** ecosystem, alongside **Next.js** and **TypeScript**, to build both classic server-rendered apps and modern type-safe web apps.
 - 🎯 **Goal:** Land a full-time or freelance role building software that genuinely improves how small businesses and communities operate.
