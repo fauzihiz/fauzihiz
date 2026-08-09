@@ -8,7 +8,7 @@ I transitioned into software development with a clear focus: turning code into p
 ### 🚀 Currently
 
 - 🛠️ **Building:** [Autoglass Workshop Management](https://github.com/fauzihiz/autoglass-workshop-management) — a management system for auto glass workshops, built with **Laravel**, inspired by a real inventory system I built and maintained during 6 years working at an auto glass business.
-- 📚 **Also working on:** [Daily Habit Tracker](https://github.com/fauzihiz/daily-habit-tracker) — a habit-tracking app to help people stay consistent with their daily routines.
+- 6📚 **Also building:** [Case Study & Client Management System](https://github.com/fauzihiz/studycase-and-clientmanagement) — a PWA tool to manage freelance client data, log before/after growth metrics, and auto-generate shareable portfolio case studies. Built with **Next.js**, **Supabase**, and **shadcn/ui**.
 - 🎓 **Foundation:** Completed the Fullstack Web Developer Bootcamp by **Dicoding** (React & Node.js), plus prior training through CEP-CCIT FTUI.
 - 🌱 **Currently deepening:** **Laravel** and the **PHP** ecosystem, alongside **Next.js** and **TypeScript**, to build both classic server-rendered apps and modern type-safe web apps.
 - 🎯 **Goal:** Land a full-time or freelance role building software that genuinely improves how small businesses and communities operate.
@@ -31,12 +31,8 @@ Before and during my transition into development, I've delivered several freelan
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fauzihiz&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzihiz&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
-</p>
+### 📌 Featured Work
+Check out my pinned repositories for detailed case studies and live projects.
 
 ---
 
