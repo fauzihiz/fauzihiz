@@ -1,15 +1,23 @@
-# 👋 Hi, I'm Fauzi Hizbullah!
-## Aspiring Fullstack Developer | Career Switcher | Mission-Driven Maker
+# Hi, I'm Fauzi Hizbullah 👋
+### Fullstack Web Developer | Career Switcher | Building Practical Digital Solutions for Small Businesses
 
-I am a passionate developer transitioning into the tech world with a clear purpose: **leveraging technology to solve real-world problems and improve people's quality of life.** I believe that code is a tool for social good, and I'm dedicated to building solutions that make a meaningful impact.
+I transitioned into software development with a clear focus: turning code into practical tools that help real businesses run better. Before writing my first line of production code, I spent years working hands-on inside a small business — which now shapes how I build: simple, useful, and shipped, not just polished on paper.
 
 ---
 
-### 🚀 My Journey
-- 🎓 **The Spark:** Recently completed a rigorous Fullstack Bootcamp by **Dicoding**, where I built a solid foundation in **React** and **Node.js**.
-- 🛠️ **Current Focus:** I am currently deepening my expertise in the **Next.js** and **TypeScript** ecosystem, building performant and type-safe web applications.
-- 👨‍💻 **Currently Working On:** [Daily Habit Tracker](https://github.com/fauzihiz/daily-habit-tracker) – a project designed to help people build consistency and improve their daily routines.
-- 🌍 **Goal:** To land a full-time role or freelance opportunity where I can contribute to projects that serve the community and enhance societal wellbeing.
+### 🚀 Currently
+
+- 🛠️ **Building:** [Autoglass Workshop Management](https://github.com/fauzihiz/autoglass-workshop-management) — a management system for auto glass workshops, built with **Laravel**, inspired by a real inventory system I built and maintained during 6 years working at an auto glass business.
+- 📚 **Also working on:** [Daily Habit Tracker](https://github.com/fauzihiz/daily-habit-tracker) — a habit-tracking app to help people stay consistent with their daily routines.
+- 🎓 **Foundation:** Completed the Fullstack Web Developer Bootcamp by **Dicoding** (React & Node.js), plus prior training through CEP-CCIT FTUI.
+- 🌱 **Currently deepening:** **Laravel** and the **PHP** ecosystem, alongside **Next.js** and **TypeScript**, to build both classic server-rendered apps and modern type-safe web apps.
+- 🎯 **Goal:** Land a full-time or freelance role building software that genuinely improves how small businesses and communities operate.
+
+---
+
+### 💼 Real-World Experience
+
+Before and during my transition into development, I've delivered several freelance projects for small businesses — mostly in the car glass service niche — handling everything from website builds to on-page SEO and Google Business Profile setup. This hands-on client work taught me how to translate real business needs into working software, not just tutorials.
 
 ---
 
@@ -17,29 +25,27 @@ I am a passionate developer transitioning into the tech world with a clear purpo
 
 | Category | Skills |
 | :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) |
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fauzihiz&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzihiz&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=fauzihiz&theme=catppuccin_latte&hide_border=false" alt="GitHub Streak" width="100%" />
-</p>
-
 ---
 
-### 📫 Let's Connect & Collaborate!
-I'm always open to discussing new projects, freelance opportunities, or just talking about how tech can change the world.
+### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fauzi-hizbullah-5893a5180) 
+I'm open to freelance projects, junior developer roles, and collaborations — especially anything involving digital tools for small businesses.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzihiz)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/fauzihiz/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fauzihiz@gmail.com)
 
 ---
